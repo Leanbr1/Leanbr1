@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leandro Brum Neves 👋
+### Bem vindo! Sou o Leandro Brum Neves 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-brum-53a67a228/)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leanbr1/)
